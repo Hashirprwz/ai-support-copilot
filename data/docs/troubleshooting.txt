@@ -1,0 +1,2 @@
+If your computer is not booting up, try holding the power button for 10 seconds to force a restart.
+If that fails, ensure the charging cable is securely connected and try a different wall outlet.
